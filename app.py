@@ -2,7 +2,7 @@ import streamlit as st
 from fastai.vision.all import *
 import plotly.express as px
 
-st.title('Salom')
+st.title("Ko‘krak qafasi rentgenogrammasi yordamida COVID-19,Pneumonia va Sog'lom insonni aniqlash")
 
 file=st.file_uploader("Rasm yuklash",type=['png','jpeg','svg','jpg'])
 
