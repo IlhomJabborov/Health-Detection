@@ -54,6 +54,9 @@ with st.expander("Foydalanish Qo'llanmasi"):
                 ##### Foydalanish:
                 * Ekraning chap tomonidagi "Rasm yuklash" qismi orqali rentgenogramma(X-Ray) rasmingizni yuklang
                 * Natijalar : Matn,Foiz va Grafik ko'rinishida chiqadi
+
+                ##### Ogohlantirish :
+                * Ishlov berilgan rentgenogramma(X-Ray) rasmini yuklash xato natija chiqishiga olib keladi !
                 """)
 with st.expander("Sayt haqida"):
     st.markdown("""
