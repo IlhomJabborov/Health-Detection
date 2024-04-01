@@ -13,7 +13,6 @@ st.sidebar.write("## X-Ray Rasmini Yuklash :gear:")
 
 col1, col2,col3 = st.columns(3)
 file=st.sidebar.file_uploader("Rasm yuklash",type=['png','jpeg','svg','jpg'])
-st.sidebar.markdown(""" * [Bosh Sahifaga Qaytish](https://tashxis.vercel.app/) """)
 
 
 if file:
